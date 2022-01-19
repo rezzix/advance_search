@@ -1,9 +1,11 @@
 # Advance Search Environment
 
-Advance search Envoronment is a comprehensive collector for targeted data coupled with a powerful search engine for professional use
+## Introduction
+Advance search Envoronment is a comprehensive collector for targeted data coupled with a powerful search engine for professional use. The collected data is comprehensive and gives much more insight than regular web searches. Pre collected data gives near instant results.
 
-
+## Architecture
 ![Architecture](http://www.mederp.net/ase/ase_architecture.png)
+
 
 ## Structured data crawlers/scrapers
 A set of tools to crawl structured data feed such as :
