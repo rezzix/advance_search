@@ -11,4 +11,7 @@ A set of tools to crawl structured data feed such as :
 - Crawler for Reference websites 
 
 ## Unstructered data crawler
-Web crawler with given aim and depth to browe as a bot and extract useful data 
+Web crawler with given aim and depth to browse as a bot and extract useful data 
+
+## Social listeners
+A set of social listeners to collect published data on social media
