@@ -3,17 +3,26 @@
 ## Introduction
 Advance search Envoronment is a comprehensive collector for targeted data coupled with a powerful search engine for professional use. The collected data is comprehensive and gives much more insight than regular web searches. Pre collected data gives near instant results.
 
+The project aims to store big data in custimzed way and run AI processors to enhance it's quality for later search and reporting.  
+
 ## Architecture
 ![Architecture](http://www.mederp.net/ase/ase_architecture.png)
 
 
-## Structured data crawlers/scrapers
+## Data Collectors
+
+### Structured data crawlers/scrapers
 A set of tools to crawl structured data feed such as :
 - Scraper RSS
 - Crawler for Reference websites 
 
-## Unstructered data crawler
+### Unstructered data crawler
 Web crawler with given aim and depth to browse as a bot and extract useful data 
 
-## Social listeners
+### Social listeners
 A set of social listeners to collect published data on social media
+
+
+## Data Processors
+
+### Data Cleaner
