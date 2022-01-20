@@ -26,3 +26,15 @@ A set of social listeners to collect published data on social media
 ## Data Processors
 
 ### Data Cleaner
+Removal of duplicates and low quality content
+
+### Data indexer
+Creates an index for further usage in search
+
+### AI Categorizer
+Add tags for categories using AI and NLP
+
+### Data classifier
+Reclassifies data over time
+
+## Data Exporters
