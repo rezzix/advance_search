@@ -11,7 +11,7 @@ The collected data is comprehensive and gives much more insight than regular web
 The project aims to store big data in custimzed way and run AI processors to enhance it's quality for later search and reporting.  
 
 ## Architecture
-![Architecture](http://www.mederp.net/ase/ase_architecture.png)
+![Architecture](http://www.mederp.net/projects/ase/ase_architecture.png)
 
 
 ## Data Collectors
